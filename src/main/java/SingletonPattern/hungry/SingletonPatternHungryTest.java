@@ -1,4 +1,4 @@
-package SingletonPattern;
+package SingletonPattern.hungry;
 
 /**
  * @author yanzhihao
@@ -10,7 +10,7 @@ package SingletonPattern;
  * ● 需要定义大量的静态常量和静态方法（如工具类）的环境，可以采用单例模式
  * @Date 2021/12/19 2:48 下午
  */
-public class SingletonPatternTest {
+public class SingletonPatternHungryTest {
 
     public static void main(String[] args) {
         Person person = new Person();

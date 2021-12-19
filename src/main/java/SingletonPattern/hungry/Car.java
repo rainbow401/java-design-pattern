@@ -1,9 +1,9 @@
-package SingletonPattern;
+package SingletonPattern.hungry;
 
 /**
  * @author yanzhihao
- * @Description:
- * @date 2021/12/19 2:45 下午
+ * @Description: 懒汉式单例模式，启动即初始化单例对象
+ * @date: 2021/12/19 2:45 下午
  */
 public class Car {
 
