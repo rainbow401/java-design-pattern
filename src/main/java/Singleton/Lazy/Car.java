@@ -1,4 +1,4 @@
-package SingletonPattern.Lazy;
+package Singleton.Lazy;
 
 /**
  * @Description: 恶汉式单例模式，第一次使用对象时才初始化该单例对象

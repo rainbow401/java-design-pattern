@@ -1,4 +1,4 @@
-package SingletonPattern.hungry;
+package Singleton.hungry;
 
 /**
  * @author yanzhihao

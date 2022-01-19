@@ -1,4 +1,4 @@
-package SingletonPattern.Lazy;
+package Singleton.Lazy;
 
 /**
  * @Description:
