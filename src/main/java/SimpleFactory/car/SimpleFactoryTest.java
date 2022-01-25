@@ -1,4 +1,4 @@
-package SimpleFactory;
+package SimpleFactory.car;
 
 /**
  * @author yanzhihao
