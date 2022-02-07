@@ -11,8 +11,9 @@ public class BufferedInputStream {
 
     protected BufferedInputStream(InputStream in) {
         this.in = in;
-    }// f()函数不需要增强，只是重新调用一下InputStream in对象的f()
+    }
 
+    // f()函数不需要增强，只是重新调用一下InputStream in对象的f()
     public void f() {
         in.f();
     }
