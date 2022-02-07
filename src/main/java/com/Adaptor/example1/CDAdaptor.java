@@ -3,7 +3,7 @@ package com.Adaptor.example1;
 import com.Adaptor.example1.sdk.CD;
 
 /**
- * @Description: 封装外部缺陷接口/方法
+ * @Description: 使用适配器模式 封装外部缺陷接口/方法
  * @Author: yanzhihao
  * @Date: 2022/2/7 5:32 下午
  */
