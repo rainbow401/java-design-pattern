@@ -3,11 +3,13 @@ package com.Adaptor.example1;
 import com.Adaptor.example1.sdk.CD;
 
 /**
- * @Description: 使用适配器模式 封装外部缺陷接口/方法
+ * 使用适配器模式 封装外部缺陷接口/方法
+ * @Description:
  * @Author: yanzhihao
  * @Date: 2022/2/7 5:32 下午
  */
 public class CDAdaptor extends CD implements ITarget {
+
     @Override
     public void function1() {
         super.staticFunction1();
