@@ -1,8 +1,8 @@
-package com.AbstractFactory.impl;
+package com.abstractfactory.impl;
 
-import com.AbstractFactory.IConfigParserFactory;
-import com.AbstractFactory.parser.ISystemConfigParser;
-import com.AbstractFactory.parser.JsonSystemConfigParser;
+import com.abstractfactory.IConfigParserFactory;
+import com.abstractfactory.parser.ISystemConfigParser;
+import com.abstractfactory.parser.JsonSystemConfigParser;
 import com.simplefactory.config.IRuleConfigParser;
 import com.simplefactory.config.JsonRuleConfigParser;
 

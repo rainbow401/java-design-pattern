@@ -1,6 +1,6 @@
-package com.AbstractFactory;
+package com.abstractfactory;
 
-import com.AbstractFactory.parser.ISystemConfigParser;
+import com.abstractfactory.parser.ISystemConfigParser;
 import com.simplefactory.config.IRuleConfigParser;
 
 /**

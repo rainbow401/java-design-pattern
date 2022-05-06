@@ -1,4 +1,4 @@
-package com.AbstractFactory.parser;
+package com.abstractfactory.parser;
 
 /**
  * @Description:
