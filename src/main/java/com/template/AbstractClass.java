@@ -1,6 +1,7 @@
 package com.template;
 
 /**
+ * 模板模式
  * @author yanzhihao
  * @since 2022/5/7
  */
